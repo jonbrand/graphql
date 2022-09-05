@@ -8,3 +8,6 @@ Server para definir as propriedades dos objetos.
 - String
 - Boolean
 - ID
+
+## Schema Definition Language (SDL)
+Linguagem para a definição de Esquemas
